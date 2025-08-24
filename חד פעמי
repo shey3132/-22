@@ -1,0 +1,14 @@
+Title: חדרים
+URL*: https://chat.googleapis.com/v1/spaces/AAAAXVE7Ptg/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=658gXcM9WbTSvXTD20eMvgEHzIu_D521soMTAL7npWg
+Enable job: סמן (כברירת מחדל)
+Save responses in job history: לא מסומן (או סמן אם רוצה)
+Execution schedule:
+  - בחר Custom
+  - Crontab expression: 30 11 24 8 *
+Request Body (POST Parameter):
+  {
+    "text": "העליה 2\nשפירא עמר שלאס היימן\nהעליה 11\nהראל אלכביר פנחסי מזרחי\nארגז 5\nטבצניק שקלאר פינדוס בראון\nמאוחדת 4\nפלד פרומר שפירא\nמאוחדת 3\nוייספיש גרינברג גרנגווד\nמחודשת\nפרידמן דפנר קנפלמכר\nמכבי 5\nסלושץ במברגר\nגנרטור 3\nהלוי מונק באואר דוידי קליינמן\nגנרטור 1\nפרוש דפנר רוט אבלס\nחפציבה 2\nגורא שוורץ אורבך סולגניק\nחפציבה 5\nחברוני יעקב לוי ארליך לבל ידלר\nברסלב 1\nפרלין גלברט שמעה פיין\nברסלב 2\nרזנוב קלר שירזי ווער\nברסלב 3\nהימלפרב דוד קליינמן בלומנפלד אריאל לוי\nטירת יהודה\nסילבר יפרח סנדרוסי קיותי דוד כהן סייף לוי בני בירנבוים מגורי פולאנסקי דרעי"
+  }
+Headers (אם יש שדה): Content-Type: application/json
+Schedule expires: לא מסומן
+Notify me when...: סמן execution of the cronjob fails (אם רוצה התראה)
